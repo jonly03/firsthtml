@@ -1,0 +1,14 @@
+.redBgc {
+  background-color: red;
+}
+.blueBgc {
+  background-color: blue !important;
+}
+
+body {
+  width: 300px;
+}
+
+#fee {
+  color: red;
+}
